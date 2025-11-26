@@ -1,2 +1,2 @@
 # three-news
-um site de noticias sobre cultura pop
+Um site de notícias sobre a cultura pop.
