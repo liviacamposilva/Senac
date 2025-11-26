@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Votação</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Sistema de votação de personagens</h1>
+    </header>
+    <main>
+        <section>
+            <p>Cada aluno poderá votar em apenas um personagem no site.
+            Depois de confirmar sua escolha, o voto será registrado automaticamente. Boa votação! </p>
+            <form>
+                <select>
+                    <option value="">Selecione</option>
+                    <option value="kiara">kiara</option>
+                    <option value="jj">Jj</option>
+                    <option valu="johnb">John b</option>
+                    <option value="pope">Pope</option>
+                    <option value="sarah">Sarah Cameron</option>
+                    <option value="rafe">Rafe Cameron</option>
+                </select>
+                <button id="btnVotarS">
+                    Enviar
+                </button>
+            </form>
+                <div id="erro"></div>
+        </section>
+        <section id="ranking">
+            <h2>ranking</h2>
+            <ul id="lista-ranking">
+                <li>Kiara - 0 votos</li>
+                <li>Jj - 0 votos</li>
+                <li>John B - 0 votos</li>
+                <li>Pope - 0 votos</li>
+                <li>Sarah Cameron - 0 votos </li>
+                <li>Rafe Cameron - 0 votos</li>
+            </ul>
+        </section>
+    </main>
+    <footer>&copy; Lívia campos - 17/11/2025</footer>
+    <script src="./js/script.js"></script>
+</body>
+</html>
