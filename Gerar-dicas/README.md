@@ -10,16 +10,7 @@ Um site criado para inspirar, motivar e oferecer pequenos conselhos aleatórios 
 - Ao clicar nele, uma dica é mostrada na tela.
 - A dica é escolhida automaticamente pelo JavaScript, que sorteia um item dentro de uma lista pré-definida.
 - É rápido, leve e totalmente dinâmico.
-
-# ▶️ Como abrir o site
-Você pode visualizar o site de duas maneiras:
-✔ Abrindo localmente
-- Baixe ou clone o repositório.
-- Abra a pasta do projeto.
-- Clique duas vezes no arquivo index.html para abrir no navegador.
-✔ Acessando online
-Se o site estiver hospedado no GitHub Pages, basta entrar no link publicado no repositório.
-
+  
 # Como rodar o projeto
 1. Baixe o repositório (Clique no Botão "Code">Download ZIP)
 2. Extraia a pasta
