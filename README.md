@@ -1,50 +1,5 @@
-# Three News
+Senac 🌐Curso Técnico em Informática para Internet — SENAC Página explicativa com os objetivos do curso
 
-## 📰 Three News — Portal de Notícias
+🚀 Objetivos do Curso (Resumo em Tópicos) Apresentar de forma clara os propósitos do Curso Técnico em Informática para Internet do SENAC. Listar as competências desenvolvidas durante a formação, desde o front-end até lógica de programação. Explicar como o curso capacita o aluno para criar, manter e publicar sites e sistemas web. Destacar o uso de ferramentas modernas, boas práticas de código e foco na experiência do usuário. Reforçar o objetivo central da formação: preparar profissionais completos para o mercado digital.
 
-Página criada para informar, destacar e atualizar os usuários com conteúdos variados
-
-##  O que o Site Oferece
-
-- Exibe notícias organizadas de forma clara e dinâmica, facilitando a leitura e a navegação.
-- Apresenta conteúdos de diferentes categorias, permitindo que o usuário encontre rapidamente o que procura.
-- Traz um layout responsivo e intuitivo, pensado para funcionar bem em qualquer dispositivo.
-- Destaca manchetes, informações essenciais e atualizações de maneira objetiva.
-- Foi desenvolvido com foco em praticidade e experiência do usuário, garantindo acesso simples e rápido às notícias.
-
-##  Sobre o Three News
-O site Three News foi criado para oferecer ao usuário uma experiência simples, direta e organizada ao acompanhar notícias. A página apresenta conteúdos atualizados e dispostos por categorias, permitindo uma navegação ágil e eficiente. Seu layout responsivo garante boa visualização tanto no computador quanto no celular, enquanto o design limpo facilita a leitura das manchetes e informações principais. O objetivo do projeto é entregar um portal funcional, moderno e acessível para quem busca informação rápida e confiável.
-
-## Ferramentas Utilizadas
-- CSS
-- HTML
-- JavaScript
-- GitHub
-- VS Code
-
-## Como rodar o projeto
-1. Baixe o repositório (Clique no Botão "Code">Download ZIP)
-2. Extraia a pasta
-3. Abra o arquivo index.html no navegador
-
-## Acesse o projeto online: 
- https://liviacamposiva.github.io/three-news/
-
-## Como clonar o projeto
- No terminal do VS Code digite:
-      git clone https://github.com/liviacamposiva/three-news.git
- No GitHub Desktop:
-  No menu: File(Arquivo)>Clone o repositor(Clonar repositório)>Selecione a aba URL, no campo URL, cole o link do repositório
-  
-## Melhorias futuras
-- Organizar melhor os arquivos
-- Estilizar melhor para o responsivo
-  
-## Funcionalidades
-- Possui um formulário interativo onde os usuários podem escrever comentários sobre a página.
-- Assim que o usuário envia o comentário, ele aparece automaticamente acima do formulário, em ordem de postagem.
-- Conta com modo escuro, permitindo alternar entre tema claro e escuro para melhor conforto visual.
-- É totalmente responsivo, garantindo boa navegação em celulares, tablets e computadores.
-- Oferece uma interface limpa e intuitiva, focada na leitura e interação do usuário.
-
-## Desenvolvido por Gabriela de Sousa, Lívia Campos da Silva e Ingrid Lima Rocha
+🌟 Visão Geral da Formação A página do SENAC sobre o Curso Técnico em Informática para Internet apresenta de maneira direta os principais objetivos da formação. Nela, o aluno conhece as competências que irá desenvolver, como criação e manutenção de páginas web, programação voltada para sistemas online e aplicação de boas práticas de usabilidade e acessibilidade. O conteúdo também destaca o uso de tecnologias modernas e o compromisso do curso em formar profissionais capacitados para atuar com eficiência no mercado digital. A página é clara, organizada e pensada para orientar quem deseja ingressar na área de desenvolvimento para a internet.
