@@ -28,7 +28,7 @@ O site Three News foi criado para oferecer ao usuário uma experiência simples,
 3. Abra o arquivo index.html no navegador
 
 ## Acesse o projeto online: 
- https://gabrielasousasilva68.github.io/three-news/
+ https://liviacamposiva.github.io/three-news/
 
 ## Como clonar o projeto
  No terminal do VS Code digite:
