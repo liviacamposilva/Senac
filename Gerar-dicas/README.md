@@ -20,6 +20,20 @@ Você pode visualizar o site de duas maneiras:
 ✔ Acessando online
 Se o site estiver hospedado no GitHub Pages, basta entrar no link publicado no repositório.
 
+# Como rodar o projeto
+1. Baixe o repositório (Clique no Botão "Code">Download ZIP)
+2. Extraia a pasta
+3. Abra o arquivo index.html no navegador
+
+# Acesse o projeto online: 
+ https://liviacamposiva.github.io/Gerar-dicas/
+
+## Como clonar o projeto
+ No terminal do VS Code digite:
+      git clone https://github.com/liviacamposiva/Gerar-dicas.git
+ No GitHub Desktop:
+  No menu: File(Arquivo)>Clone o repositor(Clonar repositório)>Selecione a aba URL, no campo URL, cole o link do repositório
+
 # 📁 Arquivos principais
 - index.html – Estrutura visual da página
 - style.css – Configurações de estilo, cores e layout
@@ -42,4 +56,9 @@ Se o site estiver hospedado no GitHub Pages, basta entrar no link publicado no r
 - Adicionar mais dicas
 - Criar um modo escuro
 - Permitir que o usuário envie suas próprias dicas
+
+# Autor
+- Lívia Campos da Silva
+- Turma de Tecnologia em Informatica para Internet matutino Senac DF
+
 
