@@ -40,11 +40,11 @@ Este projeto foi desenvolvido com foco em praticar conceitos fundamentais de HTM
 3. Abra o arquivo index.html no navegador
 
 # Acesse o projeto online: 
- https://liviacamposiva.github.io/Gerar-dicas/
+ https://liviacamposiva.github.io/votacao-personagens/
 
 ## Como clonar o projeto
  No terminal do VS Code digite:
-      git clone https://github.com/liviacamposiva/Gerar-dicas.git
+      git clone https://github.com/liviacamposiva/votacao-personagens.git
  No GitHub Desktop:
   No menu: File(Arquivo)>Clone o repositor(Clonar repositório)>Selecione a aba URL, no campo URL, cole o link do repositório
 
