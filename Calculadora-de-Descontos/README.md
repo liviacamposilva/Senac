@@ -32,5 +32,19 @@ Este projeto foi criado para treinar habilidades em JavaScript, CSS, e manipula�
 - Clique em Calcular
 - Veja instantaneamente o resultado na tela
 
+# Como rodar o projeto
+1. Baixe o repositório (Clique no Botão "Code">Download ZIP)
+2. Extraia a pasta
+3. Abra o arquivo index.html no navegador
+
+# Acesse o projeto online: 
+ https://liviacamposiva.github.io/three-news/
+
+# Como clonar o projeto
+ No terminal do VS Code digite:
+      git clone https://github.com/liviacamposiva/three-news.git
+ No GitHub Desktop:
+  No menu: File(Arquivo)>Clone o repositor(Clonar repositório)>Selecione a aba URL, no campo URL, cole o link do repositório
+
 # 📜 Licença
 Criado por Lívia Campos. Este projeto é livre para estudo e modificação.
