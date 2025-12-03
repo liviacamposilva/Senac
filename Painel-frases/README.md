@@ -34,5 +34,5 @@ No GitHub Desktop:
 
 ## Desenvolvido por Lívia Campos da Silva
 Turma de Tecnologia em Informática para Internet 
-Vespertino -  Senac DF
+Matutino -  Senac DF
 
