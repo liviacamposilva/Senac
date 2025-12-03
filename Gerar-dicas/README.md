@@ -1,16 +1,39 @@
 # 🌟 Gerar-dicas
 Um site criado para inspirar, motivar e oferecer pequenos conselhos aleatórios com apenas um clique.
 
-# 📖 Sobre o projeto
+#  Sobre o projeto
 - O Gerar-dicas é uma aplicação simples que exibe dicas diversas sempre que o usuário solicita.
 - O objetivo é proporcionar pequenas mensagens que podem ajudar no dia, estimular ideias ou trazer reflexões rápidas.
 
-# 🛠️ Como funciona
+#  Como funciona
 - Ao acessar o site, o usuário encontra um botão principal.
 - Ao clicar nele, uma dica é mostrada na tela.
 - A dica é escolhida automaticamente pelo JavaScript, que sorteia um item dentro de uma lista pré-definida.
 - É rápido, leve e totalmente dinâmico.
   
+#  Arquivos principais
+- index.html – Estrutura visual da página
+- style.css – Configurações de estilo, cores e layout
+- script.js – Código responsável por gerar e exibir as dicas
+
+# Como usar
+- Abra o site.
+- Clique no botão Gerar dica.
+- Leia a dica que aparecer.
+- Repita o processo sempre que quiser uma nova sugestão.
+- Simples assim.
+
+#  Tecnologias
+- HTML
+- CSS
+- JavaScript
+- VS Code
+
+#  Melhorias futuras
+- Adicionar mais dicas
+- Criar um modo escuro
+- Permitir que o usuário envie suas próprias dicas
+
 # Como rodar o projeto
 1. Baixe o repositório (Clique no Botão "Code">Download ZIP)
 2. Extraia a pasta
@@ -25,31 +48,8 @@ Um site criado para inspirar, motivar e oferecer pequenos conselhos aleatórios 
  No GitHub Desktop:
   No menu: File(Arquivo)>Clone o repositor(Clonar repositório)>Selecione a aba URL, no campo URL, cole o link do repositório
 
-# 📁 Arquivos principais
-- index.html – Estrutura visual da página
-- style.css – Configurações de estilo, cores e layout
-- script.js – Código responsável por gerar e exibir as dicas
 
-# 🧩 Como usar
-- Abra o site.
-- Clique no botão Gerar dica.
-- Leia a dica que aparecer.
-- Repita o processo sempre que quiser uma nova sugestão.
-- Simples assim.
-
-# 🧪 Tecnologias
-- HTML
-- CSS
-- JavaScript
-- VS Code
-
-# 🙌 Melhorias futuras
-- Adicionar mais dicas
-- Criar um modo escuro
-- Permitir que o usuário envie suas próprias dicas
-
-# Autor
-- Lívia Campos da Silva
-- Turma de Tecnologia em Informatica para Internet matutino Senac DF
+# Desenvolvido po Lívia Campos da Silva
+- Turma de Tecnologia em Informatica para Internet matutino, Senac-DF
 
 
