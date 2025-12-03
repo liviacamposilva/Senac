@@ -50,6 +50,7 @@ Um site criado para inspirar, motivar e oferecer pequenos conselhos aleatórios 
 
 
 # Desenvolvido po Lívia Campos da Silva
-- Turma de Tecnologia em Informatica para Internet matutino, Senac-DF
+- Turma de Tecnologia em Informatica para Internet.
+- Matutino - Senac-DF
 
 
