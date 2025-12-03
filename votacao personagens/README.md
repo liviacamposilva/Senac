@@ -33,3 +33,18 @@ Este projeto foi desenvolvido com foco em praticar conceitos fundamentais de HTM
 - Lógica de programação
 - Manipulação de eventos
 - Atualização dinâmica de conteúdo na página
+
+# Como rodar o projeto
+1. Baixe o repositório (Clique no Botão "Code">Download ZIP)
+2. Extraia a pasta
+3. Abra o arquivo index.html no navegador
+
+# Acesse o projeto online: 
+ https://liviacamposiva.github.io/Gerar-dicas/
+
+## Como clonar o projeto
+ No terminal do VS Code digite:
+      git clone https://github.com/liviacamposiva/Gerar-dicas.git
+ No GitHub Desktop:
+  No menu: File(Arquivo)>Clone o repositor(Clonar repositório)>Selecione a aba URL, no campo URL, cole o link do repositório
+
