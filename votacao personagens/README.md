@@ -49,5 +49,5 @@ Este projeto foi desenvolvido com foco em praticar conceitos fundamentais de HTM
   No menu: File(Arquivo)>Clone o repositor(Clonar repositório)>Selecione a aba URL, no campo URL, cole o link do repositório
 
 ## Desenvolvido por Lívia Campos 
- Turma de Tecnologia em Informática para Internet Vespertino - Senac DF
+ Turma de Tecnologia em Informática para Internet Matutino - Senac DF
 
