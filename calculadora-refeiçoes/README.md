@@ -31,6 +31,6 @@ git clone https://liviacamposiva.github.io/senac/calculadora-refeicoes/
 No GitHub Desktop:
   No menu: File(Arquivo)>Clone o repositor(Clonar repositório)>Selecione a aba URL, no campo URL, cole o link do repositório
 
-## Desenvolvido por Lívia Campos
+## Desenvolvido por Lívia Campos da Silva
 Turma de Tecnologia em Informática para Internet 
-Vespertino -  Senac DF
+Matutino -  Senac DF
